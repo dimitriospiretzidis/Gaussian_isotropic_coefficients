@@ -2,6 +2,6 @@ This repository contains MATLAB functions for the calculation of isotropic Gauss
 
 Piretzidis D, Sideris MG (2019) Stable recurrent calculation of isotropic Gaussian filter coefficients. Computers & Geosciences.
 
-Piretzidis D, Sideris MG (2019) Stable recurrent calculation of truncated isotropic Gaussian filter coefficients. Submitted to IAG Symposia.
+Piretzidis D, Sideris MG (2020) Additional methods for the stable calculation of isotropic Gaussian filter coefficients: The generalized case of a truncated filter kernel. Submitted to Computers & Geosciences.
 
 Author: Dimitrios Piretzidis
